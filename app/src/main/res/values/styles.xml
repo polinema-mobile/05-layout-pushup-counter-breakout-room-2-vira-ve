@@ -1,0 +1,64 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="txtWelcome">
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+
+    <style name="txtNama">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+    <style name="txtHowMany">
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+    <style name="txtButton">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+    <style name="txtButtonDesc">
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+    <style name="txtItemName">
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+    <style name="txtItemCount">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textSize">21sp</item>
+        <item name="android:textColor">@color/txtBlue</item>
+    </style>
+    <style name="txtItemTime">
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/txtBlueDark</item>
+    </style>
+    <style name="txtAngkaPushup">
+        <item name="android:textSize">100sp</item>
+        <item name="android:fontFamily">@font/dmsansregular</item>
+        <item name="android:textColor">@color/txtPutih</item>
+    </style>
+
+    <style name="txtBiruPushup">
+        <item name="android:fontFamily">@font/dmsansbold</item>
+        <item name="android:textColor">@color/txtBlue</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+
+</resources>
